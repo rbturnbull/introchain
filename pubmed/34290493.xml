@@ -1,0 +1,279 @@
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">34290493</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2019</Volume>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>10th IEEE International Conference on Big Knowledge : proceedings : 10-11 November 2019, Beijing, China. IEEE International Conference on Big Knowledge (10th : 2019 : Beijing, China)</Title>
+          <ISOAbbreviation>10th IEEE Int Conf Big Knowl (2019)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Knowledge-Guided Biclustering via Sparse Variational EM Algorithm.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>25-32</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1109/icbk.2019.00012</ELocationID>
+        <Abstract>
+          <AbstractText>A biclustering in the analysis of a gene expression data matrix, for example, is defined as a set of biclusters where each bicluster is a group of genes and a group of samples for which the genes are differentially expressed. Although many data mining approaches for biclustering exist in the literature, only few are able to incorporate prior knowledge to the analysis, which can lead to great improvements in terms of accuracy and interpretability, and all are limited in handling discrete data types. We propose a generalized biclustering approach that can be used for integrative analysis of multi-omics data with different data types. Our method is capable of utilizing biological information that can be represented by graph such as functional genomics and functional proteomics and accommodating a combination of continuous and discrete data types. The proposed method builds on a generalized Bayesian factor analysis framework and a variational EM approach is used to obtain parameter estimates, where the latent quantities in the loglikelihood are iteratively imputed by their conditional expectations. The biclusters are retrieved via the sparse estimates of the factor loadings and the conditional expectation of the latent factors. In order to obtain the sparse conditional expectation of the latent factors, a novel sparse variational EM algorithm is used. We demonstrate the superiority of our method over several existing biclustering methods in extensive simulation experiements and in integrative analysis of multi-omics data.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <ForeName>Changgee</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oh</LastName>
+            <ForeName>Jihwan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Min</LastName>
+            <ForeName>Eun Jeong</ForeName>
+            <Initials>EJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Long</LastName>
+            <ForeName>Qi</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>RF1 AG063481</GrantID>
+            <Acronym>AG</Acronym>
+            <Agency>NIA NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>10th IEEE Int Conf Big Knowl (2019)</MedlineTA>
+        <NlmUniqueID>101766624</NlmUniqueID>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bayesian latent factor model</Keyword>
+        <Keyword MajorTopicYN="N">biclustering</Keyword>
+        <Keyword MajorTopicYN="N">integrative multi-omics analysis</Keyword>
+        <Keyword MajorTopicYN="N">variational EM algorithm</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>29</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34290493</ArticleId>
+        <ArticleId IdType="doi">10.1109/icbk.2019.00012</ArticleId>
+        <ArticleId IdType="pmc">PMC8291726</ArticleId>
+        <ArticleId IdType="mid">NIHMS1588833</ArticleId>
+      </ArticleIdList>
+      
+      <ReferenceList>
+        <Reference>
+          <Citation>Biometrics. 2010 Jun;66(2):474-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19645699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2006 May 1;22(9):1122-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16500941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 2014 Jun 20;289(25):17689-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24790104</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biostatistics. 2018 Jan 1;19(1):71-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28541380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Lett. 2013 May 28;332(2):335-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21269762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pac Symp Biocomput. 2003;:77-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12603019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Appl Stat. 2011 Sep 1;5(3):1978-2002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23667412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Int Conf Data Sci Adv Anal. 2018 Oct;2018:109-119</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31106307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2008 May 1;24(9):1175-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18310618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2007 Nov 21;2(11):e1195</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18030330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Bioinformatics. 2017 Jan 23;18(1):55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28114903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biometrics. 2018 Dec;74(4):1372-1382</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29738602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann N Y Acad Sci. 2004 May;1020:77-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15208185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Invest. 2012 Jan;30(1):48-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22236189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stem Cell Investig. 2017 Jul 25;4:66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28815177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cytokine Growth Factor Rev. 2017 Apr;34:15-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28233643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2017 Jan 4;45(D1):D353-D361</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27899662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2010 Jun 15;26(12):1520-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20418340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Comput Biol Med. 2014 May;48:55-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24637147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2017 Apr 21;7(1):1046</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28432308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brief Bioinform. 2013 May;14(3):279-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22772837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phys Rev E Stat Nonlin Soft Matter Phys. 2003 Mar;67(3 Pt 1):031902</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12689096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2002;18 Suppl 1:S136-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12169541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genome Res. 2003 Apr;13(4):703-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12671006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Bioinformatics. 2014 Feb 04;15:37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24491042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  

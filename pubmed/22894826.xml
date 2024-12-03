@@ -1,0 +1,470 @@
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">22894826</PMID>
+      <DateCompleted>
+        <Year>2013</Year>
+        <Month>06</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2180</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Aug</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC microbiology</Title>
+          <ISOAbbreviation>BMC Microbiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Gene copy number variation and its significance in cyanobacterial phylogeny.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>177</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2180-12-177</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In eukaryotes, variation in gene copy numbers is often associated with deleterious effects, but may also have positive effects. For prokaryotes, studies on gene copy number variation are rare. Previous studies have suggested that high numbers of rRNA gene copies can be advantageous in environments with changing resource availability, but further association of gene copies and phenotypic traits are not documented. We used one of the morphologically most diverse prokaryotic phyla to test whether numbers of gene copies are associated with levels of cell differentiation.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">We implemented a search algorithm that identified 44 genes with highly conserved copies across 22 fully sequenced cyanobacterial taxa. For two very basal cyanobacterial species, Gloeobacter violaceus and a thermophilic Synechococcus species, distinct phylogenetic positions previously found were supported by identical protein coding gene copy numbers. Furthermore, we found that increased ribosomal gene copy numbers showed a strong correlation to cyanobacteria capable of terminal cell differentiation. Additionally, we detected extremely low variation of 16S rRNA sequence copies within the cyanobacteria. We compared our results for 16S rRNA to three other eubacterial phyla (Chroroflexi, Spirochaetes and Bacteroidetes). Based on Bayesian phylogenetic inference and the comparisons of genetic distances, we could confirm that cyanobacterial 16S rRNA paralogs and orthologs show significantly stronger conservation than found in other eubacterial phyla.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A higher number of ribosomal operons could potentially provide an advantage to terminally differentiated cyanobacteria. Furthermore, we suggest that 16S rRNA gene copies in cyanobacteria are homogenized by both concerted evolution and purifying selection. In addition, the small ribosomal subunit in cyanobacteria appears to evolve at extraordinary slow evolutionary rates, an observation that has been made previously for morphological characteristics of cyanobacteria.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Schirrmeister</LastName>
+            <ForeName>Bettina E</ForeName>
+            <Initials>BE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Evolutionary Biology and Environmental Studies, University of Zurich, Winterthurerstr 190, 8057 Zurich, Switzerland. bettina.Schirrmeister@bristol.ac.uk</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalquen</LastName>
+            <ForeName>Daniel A</ForeName>
+            <Initials>DA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Anisimova</LastName>
+            <ForeName>Maria</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bagheri</LastName>
+            <ForeName>Homayoun C</ForeName>
+            <Initials>HC</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>08</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMC Microbiol</MedlineTA>
+        <NlmUniqueID>100966981</NlmUniqueID>
+        <ISSNLinking>1471-2180</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000458" MajorTopicYN="N">Cyanobacteria</DescriptorName>
+          <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018628" MajorTopicYN="Y">Gene Dosage</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020459" MajorTopicYN="Y">Genes, rRNA</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009876" MajorTopicYN="N">Operon</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010802" MajorTopicYN="Y">Phylogeny</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2012</Year>
+          <Month>01</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>06</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2013</Year>
+          <Month>6</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22894826</ArticleId>
+        <ArticleId IdType="pii">1471-2180-12-177</ArticleId>
+        <ArticleId IdType="doi">10.1186/1471-2180-12-177</ArticleId>
+        <ArticleId IdType="pmc">PMC3552681</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Environ Microbiol. 2006 Aug;8(8):1471-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16872409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2008 Nov 04;9:524</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18983662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2004 Dec;70(12):7355-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15574936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geobiology. 2010 Jan;8(1):1-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19863595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genome Res. 2007 Feb;17(2):184-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17200233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5442-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16569695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2001 Nov 16;294(5546):1534-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11711677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gen Appl Microbiol. 2005 Dec;51(6):395-405</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16474200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 1997 Dec 15;25(24):4876-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9396791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genome Res. 2009 Aug;19(8):1450-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19502381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Bioinformatics. 2008 Dec 04;9:518</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19055798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Genet. 2007 Jan 5;3(1):e3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17206864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Genet. 2009 Nov;5(11):e1000734</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19956538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Genet. 2007 Oct;39(10):1256-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17828263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2004 Jan 8;427(6970):117-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2003 Aug 28;424(6952):1042-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12917642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2010 Jun;76(12):3886-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20418441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Syst Evol Microbiol. 2004 Mar;54(Pt 2):349-357</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15023942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Microbiol. 2000 Dec;3(6):618-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11121783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1996 Sep 17;93(19):10004-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8816738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 1996 Mar;62(3):1045-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11536748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Mol Evol. 2000 Oct;51(4):305-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11040282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Microbiology (Reading). 2003 May;149(Pt 5):1139-1146</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12724375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Eukaryot Microbiol. 1999 Jul-Aug;46(4):327-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10461381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1995 Jul 18;92(15):6813-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7624325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Evol. 2007 Aug;24(8):1586-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17483113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2006 Jan;72(1):544-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16391090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bacteriol. 1988 Aug;170(8):3584-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3136142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetica. 2008 Oct;134(2):205-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18046510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FASEB J. 1993 Jan;7(1):113-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8422957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cytogenet Genome Res. 2008;123(1-4):283-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19287166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FEMS Microbiol Lett. 2003 Nov 7;228(1):45-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14612235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1994 Jul 19;91(15):6735-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8041691</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FEMS Microbiol Lett. 2001 Jul 10;201(1):79-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11445171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Microbiol. 2009 Sep 25;9:208</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19781086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DNA Res. 2003 Aug 31;10(4):137-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14621292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Commun Integr Biol. 2011 Jul;4(4):424-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21966561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mikrobiologiia. 2003 Jul-Aug;72(4):437-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14526531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2000 Sep 26;97(20):10866-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11005860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Microbiology (Reading). 2002 Aug;148(Pt 8):2309-2318</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12177325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Genet. 2007 Aug;8(8):639-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17637735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2000 Apr;66(4):1328-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10742207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Evol. 2008 Apr;25(4):643-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18296704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Biol Sci. 2010 Nov 7;277(1698):3213-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20591863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2003 Aug 12;19(12):1572-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12912839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Evol Biol. 2010 Jan 25;10:24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20100331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Evol Biol. 2011 Feb 14;11:45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21320320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1981 Apr 24;212(4493):403-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6163215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FEMS Microbiol Rev. 2005 Apr;29(2):169-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15808740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2010 Jul;38(13):4207-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20215432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2398-403</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16467157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2008 Jan;36(Database issue):D25-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18073190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Evol. 2011 Nov;28(11):3019-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21652613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2009 Jan;37(Database issue):D489-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18948294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  

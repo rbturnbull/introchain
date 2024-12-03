@@ -1,0 +1,314 @@
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">28250509</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>10</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1564-0604</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>95</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>Feb</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Bulletin of the World Health Organization</Title>
+          <ISOAbbreviation>Bull World Health Organ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Drought, conflict and children's undernutrition in Ethiopia 2000-2013: a meta-analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>94-102</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2471/BLT.16.172700</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To estimate the prevalence of childhood wasting and to investigate the effects of drought and conflict on wasting in crisis-affected areas within Ethiopia.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We searched the Complex Emergency Database for nutrition surveys carried out in Ethiopia over the period 2000-2013. We extracted data on the prevalence of wasting (weight-for-height <i>z</i>-scores below -2) among children aged 6-59 months for areas of Ethiopia that had sufficient data available. Data on any conflict events (irrespective of magnitude or impact) and episodes of seasonal drought affecting the survey areas were extracted from publicly available data sources. Random-effects Bayesian meta-analysis was used to synthesize the evidence from 231 small-scale surveys.</AbstractText>
+          <AbstractText Label="FINDINGS" NlmCategory="RESULTS">From the total sample of 175 607 children analysed, the pooled number of children wasted was 21 709. The posterior median prevalence of wasting was 11.0% (95% credible interval, CrI: 10.3-11.7) over the 14-year period. Compared with areas unaffected by drought, the estimated prevalence of wasting was higher in areas affected by moderate levels of drought (posterior odds ratio, OR: 1.34; 95% CrI: 1.05-1.72) but similar in severe drought-affected areas (OR: 0.96; 95% CrI: 0.68-1.35). Although the pooled prevalence of wasting was higher in conflict-affected than unaffected areas, the difference was not plausible (OR: 1.02; 95% CrI: 0.82-1.26).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite an overall declining trend, a wasting problem persists among children in Ethiopia. Conflict events did not have a major impact on childhood wasting. Nutrition interventions should go beyond severe drought-prone areas to incorporate areas where moderate droughts occur.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Delbiso</LastName>
+            <ForeName>Tefera Darge</ForeName>
+            <Initials>TD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Research on the Epidemiology of Disasters, Institute of Health and Society, Université catholique de Louvain, Clos Chapelle-aux-Champs 30, 1200 Brussels, Belgium .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rodriguez-Llanes</LastName>
+            <ForeName>Jose Manuel</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Research on the Epidemiology of Disasters, Institute of Health and Society, Université catholique de Louvain, Clos Chapelle-aux-Champs 30, 1200 Brussels, Belgium .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Donneau</LastName>
+            <ForeName>Anne-Françoise</ForeName>
+            <Initials>AF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, University of Liège, Liège, Belgium .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Speybroeck</LastName>
+            <ForeName>Niko</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Health and Society, Université catholique de Louvain, Clos Chapelle-aux-Champs, Brussels, Belgium .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guha-Sapir</LastName>
+            <ForeName>Debarati</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Research on the Epidemiology of Disasters, Institute of Health and Society, Université catholique de Louvain, Clos Chapelle-aux-Champs 30, 1200 Brussels, Belgium .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Bull World Health Organ</MedlineTA>
+        <NlmUniqueID>7507052</NlmUniqueID>
+        <ISSNLinking>0042-9686</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Bull World Health Organ. 2017 Feb 1;95(2):86</RefSource>
+          <PMID Version="1">28250504</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000068337" MajorTopicYN="N">Armed Conflicts</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001499" MajorTopicYN="N">Bayes Theorem</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015362" MajorTopicYN="N">Child Nutrition Disorders</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055864" MajorTopicYN="N">Droughts</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005002" MajorTopicYN="N">Ethiopia</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherAbstract Type="Publisher" Language="fre">
+        <AbstractText Label="OBJECTIF" NlmCategory="OBJECTIVE">Estimer la prévalence de l'émaciation chez les enfants et étudier les effets de la sécheresse et des conflits sur l'émaciation dans les zones touchées par des crises en Éthiopie.</AbstractText>
+        <AbstractText Label="MÉTHODES" NlmCategory="UNASSIGNED">Nous avons recherché dans la base de données Complex Emergency Database des enquêtes sur la nutrition réalisées en Éthiopie sur la période 2000–2013. Nous en avons extrait des données sur la prévalence de l'émaciation (scores z poids/taille –2) parmi les enfants âgés de 6 à 59 mois dans les régions d'Éthiopie qui disposaient de suffisamment de données. Des données sur les conflits (indépendamment de leur ampleur ou de leur impact) et les épisodes de sécheresse saisonnière dans les zones concernées ont été extraites de sources d'informations accessibles au public. Une méta-analyse bayésienne à effets aléatoires a permis de synthétiser les éléments ressortis des 231 enquêtes à petite échelle.</AbstractText>
+        <AbstractText Label="RÉSULTATS" NlmCategory="UNASSIGNED">Sur un total de 175 607 enfants analysés, le nombre cumulé d'enfants souffrant d'émaciation était de 21 709. La prévalence médiane postérieure de l'émaciation était de 11,0% (intervalle de crédibilité de 95%, ICr: 10,3–11,7) sur cette période de 14 années. Comparée à des zones non affectées par la sécheresse, la prévalence estimée de l'émaciation était plus élevée dans les zones connaissant une sécheresse modérée (rapport des cotes postérieur, RC: 1,34; ICr 95%: 1,05–1,72) mais similaire dans les zones frappées par une forte sécheresse (RC: 0,96; ICr 95%: 0,68–1,35). Même si la prévalence cumulée de l'émaciation était plus élevée dans les zones touchées par des conflits que dans les autres, la différence n'était pas parlante (RC: 1,02; ICr 95%: 0,82–1,26).</AbstractText>
+        <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Malgré une tendance globalement à la baisse, le problème de l'émaciation des enfants persiste en Éthiopie. Les conflits n'ont pas d'impact majeur sur l'émaciation des enfants. Les interventions en matière de nutrition devraient aller au-delà des zones exposées à de fortes sécheresses pour intégrer celles frappées par des sécheresses modérées.</AbstractText>
+      </OtherAbstract>
+      <OtherAbstract Type="Publisher" Language="spa">
+        <AbstractText Label="OBJETIVO" NlmCategory="OBJECTIVE">Estimar la prevalencia de la emaciación en niños e investigar los efectos de las sequías y los conflictos sobre la emaciación en zonas afectadas por la crisis de Etiopía.</AbstractText>
+        <AbstractText Label="MÉTODOS" NlmCategory="UNASSIGNED">Se realizaron búsquedas en la Base de Datos sobre Emergencias Complejas en busca de encuestas sobre nutrición realizadas en Etiopía durante el periodo comprendido entre 2000 y 2013. Se extrajeron datos sobre la prevalencia de la emaciación (peso para la talla por debajo de -2 puntuaciones zeta) entre niños de 6 y 59 meses en las zonas de Etiopía con suficientes datos disponibles. Se extrajo información sobre conflictos (independientemente de su magnitud o impacto) y episodios de sequías estacionales que afectaban a las zonas encuestadas de fuentes de datos disponibles públicamente. Se utilizó el metaanálisis bayesiano de efectos aleatorios para sintetizar la evidencia de 231 encuestas a pequeña escala.</AbstractText>
+        <AbstractText Label="RESULTADOS" NlmCategory="RESULTS">De la muestra total de 175 607 niños analizados, la cantidad combinada de niños con emaciación fue de 21 709. La prevalencia mediana posterior de emaciación fue del 11,0% (intervalo creíble, ICr, del 95%: 10,3–11,7) durante el periodo de 14 años. En comparación con las áreas no afectadas por la sequía, la prevalencia estimada de la emaciación fue mayor en las zonas afectadas por niveles moderados de sequía (cociente de posibilidades posterior, CP: 1,34; ICr del 95%: 1,05–1,72), pero similar en zonas gravemente afectadas por la sequía (CP: 0,96; ICr del 95%: 0,68–1,35). Aunque la prevalencia combinada de la emaciación fue mayor en zonas afectadas por conflictos que en las que no lo estaban, la diferencia no era plausible (CP: 1,02; ICr del 95%: 0,82–1,26).</AbstractText>
+        <AbstractText Label="CONCLUSIÓN" NlmCategory="UNASSIGNED">A pesar de una tendencia descendente generalizada, los niños de Etiopía siguen sufriendo un problema de emaciación. Los conflictos no supusieron un gran impacto en la emaciación en la niñez. Las intervenciones nutricionales deberían ir más allá de las zonas propensas a sequías e incorporar zonas en la que se produzcan sequías moderadas.</AbstractText>
+      </OtherAbstract>
+      <OtherAbstract Type="Publisher" Language="ara">
+        <AbstractText Label="الهدف" NlmCategory="UNASSIGNED">تقدير مدى انتشار هزال الطفولة واكتشاف آثار الجفاف والصراع على الهزال في المناطق المتضررة من الأزمة داخل إثيوبيا.</AbstractText>
+        <AbstractText Label="الطريقة" NlmCategory="UNASSIGNED">بحثنا في قاعدة بيانات حالات الطوارئ المجمعة لاستطلاعات التغذية التي نُفذت في إثيوبيا خلال الفترة ما بين عامي 2000 و2013. واستخرجنا بيانات حول شيوع الهزال (وكانت المحصلات المعيارية لتناسب الوزن مع الطول أقل من -2‏) بين الأطفال الذين تتراوح أعمارهم ما بين 6 إلى 59 شهرًا في المناطق الإثيوبية التي تتوفر بها بيانات كافية. كما تم استخراج البيانات حول أية صراعات (بغض النظر عن حجمها أو أثرها) ونوبات الجفاف الموسمي التي تؤثر على مناطق الاستطلاع من مصادر البيانات المتاحة للعامة. وتم استخدام التحليل التجميعي وفقًا لنموذج "بايزي" لقياس الآثار الافتراضية العشوائية وذلك لتجميع الأدلة من 231 استطلاعًا على نطاق صغير.</AbstractText>
+        <AbstractText Label="النتائج" NlmCategory="UNASSIGNED">من إجمالي العينات التي تم تحليلها وبلغت 175607 أطفال، بلغ إجمالي عدد الأطفال الذين يعانون من الهزال 21709 أطفال. وبلغ متوسط الانتشار اللاحق للهزال نسبة ‏11.0٪ (بهامش موثوقية يبلغ ‏95%، ونسبة ثقة تتراوح ما بين 10.3-11.7) خلال فترة الـ 14 عامًا. وبالمقارنة مع المناطق غير المتضررة من الجفاف، فإن نسبة الانتشار المُقدرة للهزال كانت مرتفعة في المناطق المتضررة من قبل مستويات الجفاف المعتدلة (نسبة أرجحية لاحقة، بنسبة احتمال تبلغ 1.34؛ ونسبة أرجحية مقدارها 95‏‏% تتراوح بين: 1.05-1.72)، لكنها كانت مشابهة في المناطق المتأثرة بالجفاف الشديد (وذلك بنسبة احتمال بلغت 0.96؛ ونسبة أرجحية مقدارها 95‏‏% تتراوح بين: 0.68–1.35). وعلى الرغم من ارتفاع إجمالي انتشار الهزال في المناطق المتضررة من الصراع مقارنةً بالمناطق غير المتضررة، فإن الفارق لم يكن معقولاً (بنسبة احتمال بلغت 1.02؛ ونسبة أرجحية مقدارها ‏95‏% تتراوح بين 0.82–1.26).</AbstractText>
+        <AbstractText Label="الاستنتاج" NlmCategory="UNASSIGNED">تظل مشكلة الهزال بين الأطفال في إثيوبيا قائمة على الرغم من الاتجاه العام للانخفاض. و رغم أنه لم يكن للصراعات تأثير كبير على هزال الأطفال، فإنه ينبغي أن تتجاوز عمليات التدخل الغذائية المناطق المعرضة للجفاف وتتجه إلى تغطية المناطق التي تعاني من جفاف معتدل.</AbstractText>
+      </OtherAbstract>
+      <OtherAbstract Type="Publisher" Language="chi">
+        <AbstractText Label="目的" NlmCategory="UNASSIGNED">旨在评估埃塞俄比亚受危机影响地区的儿童消瘦率和研究这些受危机影响地区干旱与冲突对消瘦的影响。.</AbstractText>
+        <AbstractText Label="方法" NlmCategory="UNASSIGNED">我们在复杂紧急事件数据库 (Complex Emergency Database) 中检索了 2000 年至 2013 年间在埃塞俄比亚展开的营养调查。并在埃塞俄比亚有充分数据的地区提取了年龄在 6 至 59 个月的儿童的消瘦率数据（即，体重别身高 <i>z</i> 评分低于 –2）。我们从公开性数据来源中提取了影响所调查地区的任何冲突事件（不考虑量级或影响）和季节性干旱数据。并且采用随机效应的贝叶斯元分析法汇总了 231 项小规模调查中的证据。.</AbstractText>
+        <AbstractText Label="结果" NlmCategory="UNASSIGNED">在接受分析的全部 175 607 例儿童中，汇总的消瘦儿童数为 21 709 例。后者在 14 年间的消瘦率中值为 11.0%（95% 置信区间，CrI：10.3–11.7）。与未受干旱影响地区相比，受中度干旱影响地区的消瘦率估计值较高（后者的比值比 OR 为：1.34; 95% CrI: 1.05–1.72），但类似于受重度干旱影响地区 (OR: 0.96; 95% CrI: 0.68–1.35). 尽管受冲突影响地区的汇总消瘦率高于未受影响地区，但该区别似乎并不合理 (OR: 1.02; 95% CrI: 0.82–1.26)。.</AbstractText>
+        <AbstractText Label="结论" NlmCategory="UNASSIGNED">尽管整体呈减弱趋势，但消瘦问题在埃塞俄比亚儿童间依旧存在。冲突事件并不是儿童消瘦的主要影响因素。营养干涉不应局限于重度干旱频发地区，还应纳入中度干旱地区。.</AbstractText>
+      </OtherAbstract>
+      <OtherAbstract Type="Publisher" Language="rus">
+        <AbstractText Label="ЦЕЛЬ" NlmCategory="UNASSIGNED">Определить распространенность гипотрофии у детей и изучить влияние засухи и конфликтов на гипотрофию в затронутых кризисом областях Эфиопии.</AbstractText>
+        <AbstractText Label="МЕТОДЫ" NlmCategory="UNASSIGNED">Авторы выполнили поиск исследований в области питания, проведенных в Эфиопии в период между 2000 и 2013 годами, в базе данных по сложным чрезвычайным ситуациям. Были получены данные по распространенности гипотрофии (<i>z</i>-показатели соотношения веса и роста менее −2) среди детей в возрасте 6–59 месяцев для тех областей Эфиопии, для которых было доступно достаточно данных. Данные обо всех случаях конфликтов (независимо от значительности или влияния) и эпизодах сезонной засухи, оказывающих воздействие на исследуемые области, были получены из общедоступных источников. С помощью байесовского метаанализа с использованием модели случайных эффектов были обобщены фактические данные из 231 малоформатного исследования.</AbstractText>
+        <AbstractText Label="РЕЗУЛЬТАТЫ" NlmCategory="UNASSIGNED">Из общей выборки, которая включала 175 607 детей, участвовавших в анализе, суммарное количество детей с гипотрофией составило 21 709. Апостериорная медианная распространенность гипотрофии составила 11,0% (95%-й доверительный интервал, ДИ: 10,3–11,7) за 14-летний период. По сравнению с областями, не подвергшимися влиянию засухи, подсчитанная распространенность гипотрофии была выше в областях, затронутых засухой в умеренной степени (апостериорное отношение шансов, ОШ: 1,34; 95%-й ДИ: 1,05–1,72), и такой же в областях, сильно затронутых засухой (ОШ: 0,96; 95%-й ДИ: 0,68–1,35). Хотя совокупная распространенность гипотрофии в областях, затронутых конфликтом, была выше, чем в незатронутых областях, разница не была достоверной (ОШ: 1,02; 95%-й ДИ: 0,82–1,26).</AbstractText>
+        <AbstractText Label="ВЫВОД" NlmCategory="UNASSIGNED">Несмотря на общую тенденцию к снижению, дети в Эфиопии по-прежнему сталкиваются с проблемой гипотрофии. Случаи конфликтов не оказывали существенного влияния на гипотрофию у детей. Охват вмешательств в области питания следует расширить за пределы областей, подверженных сильной засухе, с включением областей, где случаются умеренные засухи.</AbstractText>
+      </OtherAbstract>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2016</Year>
+          <Month>03</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2016</Year>
+          <Month>06</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>07</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28250509</ArticleId>
+        <ArticleId IdType="doi">10.2471/BLT.16.172700</ArticleId>
+        <ArticleId IdType="pii">BLT.16.172700</ArticleId>
+        <ArticleId IdType="pmc">PMC5327931</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>PLoS One. 2014 Oct 21;9(10):e109022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25333954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stat Med. 2002 Jun 15;21(11):1539-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12111919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glob Health Action. 2016 Jul 04;9:30204</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27388539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dev Econ. 2012 Nov 1;99(2):330-340</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22962514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stat Methods Med Res. 2001 Aug;10 (4):277-303</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11491414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Public Health Nutr. 2006 Oct;9(7):942-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17010261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Environ Res Public Health. 2016 Jan 28;13(2):178</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26828512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Nutr. 2006 Aug;96 Suppl 1:S17-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16923242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glob Public Health. 2006;1(2):125-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19153901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Emerg Themes Epidemiol. 2007 Jun 01;4:11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17543105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adv Nutr. 2015 Sep;6(5):623-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27352453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Pediatr. 2008 May 05;8:19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18457590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Curr. 2013 Jun 05;5:null</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23787891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2004 Nov 20-26;364(9448):1899-909</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15555671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2008 Jan 19;371(9608):243-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18207566</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  

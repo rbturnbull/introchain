@@ -1,0 +1,510 @@
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">31492041</PMID>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Print">2223-7747</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>8</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Sep</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Plants (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Plants (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>SNP and Haplotype-Based Genomic Selection of Quantitative Traits in <i>Eucalyptus globulus</i>.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">E331</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/plants8090331</ELocationID>
+        <Abstract>
+          <AbstractText><i>Eucalyptus globulus</i> (Labill.) is one of the most important cultivated eucalypts in temperate and subtropical regions and has been successfully subjected to intensive breeding. In this study, Bayesian genomic models that include the effects of haplotype and single nucleotide polymorphisms (SNP) were assessed to predict quantitative traits related to wood quality and tree growth in a 6-year-old breeding population. To this end, the following markers were considered: (a) ~14 K SNP markers (SNP), (b) ~3 K haplotypes (HAP), and (c) haplotypes and SNPs that were not assigned to a haplotype (HAP-SNP). Predictive ability values (PA) were dependent on the genomic prediction models and markers. On average, Bayesian ridge regression (BRR) and Bayes C had the highest PA for the majority of traits. Notably, genomic models that included the haplotype effect (either HAP or HAP-SNP) significantly increased the PA of low-heritability traits. For instance, BRR based on HAP had the highest PA (0.58) for stem straightness. Consistently, the heritability estimates from genomic models were higher than the pedigree-based estimates for these traits. The results provide additional perspectives for the implementation of genomic selection in <i>Eucalyptus</i> breeding programs, which could be especially beneficial for improving traits with low heritability.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ballesta</LastName>
+            <ForeName>Paulina</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biological Sciences, University of Talca, 2 Norte 685, Talca 3460000, Chile. pballesta@utalca.cl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Maldonado</LastName>
+            <ForeName>Carlos</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biological Sciences, University of Talca, 2 Norte 685, Talca 3460000, Chile. camaldonado@utalca.cl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pérez-Rodríguez</LastName>
+            <ForeName>Paulino</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Colegio de Postgraduados, Statistics and Computer Sciences, Montecillos, Edo. de México 56230, Mexico. perpdgo@colpos.mx.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mora</LastName>
+            <ForeName>Freddy</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biological Sciences, University of Talca, 2 Norte 685, Talca 3460000, Chile. fmora@utalca.cl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>1170695</GrantID>
+            <Agency>Comisión Nacional de Investigación Científica y Tecnológica</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>09</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Plants (Basel)</MedlineTA>
+        <NlmUniqueID>101596181</NlmUniqueID>
+        <ISSNLinking>2223-7747</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bayesian models</Keyword>
+        <Keyword MajorTopicYN="N">genomic prediction</Keyword>
+        <Keyword MajorTopicYN="N">haplotype blocks</Keyword>
+        <Keyword MajorTopicYN="N">predictive ability</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>07</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2019</Year>
+          <Month>09</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>09</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31492041</ArticleId>
+        <ArticleId IdType="pii">plants8090331</ArticleId>
+        <ArticleId IdType="doi">10.3390/plants8090331</ArticleId>
+        <ArticleId IdType="pmc">PMC6783840</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Front Plant Sci. 2016 Jul 27;7:1102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27512396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genet Sel Evol. 2009 Jan 15;41:11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19284677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genet Res (Camb). 2011 Feb;93(1):77-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21144129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Genet. 2011 Apr;7(4):e1002051</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21552331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetics. 2008 Jan;178(1):553-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18202394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Plant. 2017 Aug 7;10(8):1047-1064</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28669791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2019 Mar 6;14(3):e0212925</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30840677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2014 Aug 29;15:740</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25174348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genet. 2015 Aug 25;16:105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26303864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2014 Sep 29;15:823</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25266061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2016 Nov 2;11(11):e0165323</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27806077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genet Sel Evol. 2013 Mar 06;45:5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23496971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetics. 2006 Feb;172(2):1165-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16079235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2002 Jun 21;296(5576):2225-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12029063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dairy Sci. 2017 Apr;100(4):2905-2908</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28161173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plant Mol Biol. 2005 Mar;57(4):461-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15821975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2014 Dec 23;15:1171</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25539631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2017 Jul 11;18(1):524</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28693539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>G3 (Bethesda). 2019 Jan 9;9(1):125-133</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30420469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Plant. 2014 Mar;7(3):541-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24121292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Plant Sci. 2017 Oct 17;8:1792</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29089957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Anim Breed Genet. 2014 Dec;131(6):452-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25039677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2017 Apr 28;18(1):335</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28454519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Plant Sci. 2003 Nov;8(11):554-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14607101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plant Sci. 2011 Feb;180(2):228-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21421365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2018 Jun 27;13(6):e0199492</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29949626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plant Genome. 2010;3(2):106-116</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21566722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2013 Nov 25;8(11):e81267</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24282578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heredity (Edinb). 2017 Oct;119(4):245-255</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28900291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2017 Feb 2;12(2):e0171105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28152092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2019 Apr 18;14(4):e0215315</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30998705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Genet. 2002 Feb;18(2):83-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11818140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Plant Sci. 2016 Jun 27;7:909</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27446139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2012;7(4):e35668</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22536421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>New Phytol. 2015 Jun;206(4):1527-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25684350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetics. 2006 Jul;173(3):1761-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16648593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetics. 2001 Apr;157(4):1819-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11290733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>New Phytol. 2012 Apr;194(1):116-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22309312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2018 Jan 10;8(1):322</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29321647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetics. 2013 Jul;194(3):573-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23636739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Plant Biol. 2017 Jun 29;17(1):110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28662679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2005 Jan 15;21(2):263-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15297300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2018 Nov 29;13(11):e0204757</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30496187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Bioinformatics. 2011 May 23;12:186</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21605355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heredity (Edinb). 2019 Mar;122(3):370-379</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29980794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Plant Biol. 2012 Sep 26;12:173</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23013168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Breed Sci. 2018 Jun;68(3):367-374</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30100804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Hum Genet. 2001 Jan;65(Pt 1):95-107</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11415525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2015 Nov 1;31(21):3555-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26139635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genet Sel Evol. 2013 Jun 19;45:19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23782975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dairy Sci. 2008 Nov;91(11):4414-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18946147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2014 Jun 19;510(7505):356-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24919147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genetics. 2014 Oct;198(2):483-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25009151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>G3 (Bethesda). 2012 Dec;2(12):1595-605</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23275882</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dairy Sci. 2011 Sep;94(9):4708-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21854945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2016 Nov 30;6:38081</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27901114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2014 Oct 10;9(10):e110377</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25303088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heredity (Edinb). 2014 Oct;113(4):343-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24781808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Genet. 2006 Feb;38(2):203-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16380716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2013;8(1):e54985</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23372807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plant Genome. 2017 Nov;10(3):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29293806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
